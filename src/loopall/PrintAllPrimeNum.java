@@ -3,23 +3,28 @@ package loopall;
 import java.util.Scanner;
 
 public class PrintAllPrimeNum {
-    public static void main(String [] age){
-        System.out.print("Enter the range n :");
-        Scanner sc = new Scanner(System.in);
-        int  n = sc.nextInt();
+   public static void main( String[] args){
+    System.out.print("Enter a num 1 and range num : print all prime num :");
+    Scanner sc = new Scanner(System.in);
 
-        for (int i = 2 ; i <= n; i++){
-            if ( printAllPrime(i)){
-                System.out.print("," + i);
+       int lower = sc.nextInt();
+       int higher = sc.nexInt();
+
+       for( int x = lower; x <= higher; x++){
+           if ( isPrime(x) ) {
+              System.out.print("," + x );   
+           }
+       }
+   }
+    
+    public static boolean isPrime(int isprime){
+     if ( isprime <= 1) return false;
+
+        for(int i = 2; i*i<=isprime; i++ ){
+            if( isprime % i == 0){
+                return false;
             }
         }
-    }
-    public static boolean printAllPrime(int n){
-        if ( n == 0)
-            return false;
-        if (n % 2 == 0){
-            return true;
-        }
-        return false;
+        return true;
     }
 }
