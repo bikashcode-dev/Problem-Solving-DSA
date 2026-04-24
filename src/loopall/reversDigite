@@ -1,0 +1,24 @@
+package loopall;
+
+import java.util.Scanner;
+
+public class reversDigite {
+    public static void main(String[] at){
+        System.out.print("Enter num reverse");
+
+        Scanner sc = new Scanner(System.in);
+        int digite = sc.nextInt();
+
+        System.out.print("Reverse digite :" + reaversDigit(digite));
+    }
+    public static int reaversDigit(int digite){
+        int rev = 0;
+        int rem;
+        while(digite != 0){
+            rem = digite % 10;
+            rev = rev * 10 + rem;
+            digite = digite / 10;
+        }
+        return rev;
+    }
+}
