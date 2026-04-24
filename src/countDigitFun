@@ -1,0 +1,24 @@
+// core logic build
+
+
+package loopall;
+
+import java.util.Scanner;
+public class countDigit {
+  public static void main(String[] args) {
+      System.out.print("Eneter digite count :");
+      Scanner sc = new Scanner(System.in);
+      int digit = sc.nextInt();
+
+      System.out.println("Total digit is "+ countDigit(digit));
+  }
+
+  public static int countDigit(int digit){
+      int couter = 0;
+      while(digit != 0){
+        digit = digit/10;
+        couter++;
+      }
+      return couter;
+  }
+}
