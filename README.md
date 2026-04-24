@@ -21,9 +21,9 @@
 ### 🎯 Level Progress
 
 ```
-Easy   ████████████████████░░░░  75% ✅
-Medium ████████████░░░░░░░░░░░░  50% 🔥
-Hard   █████░░░░░░░░░░░░░░░░░░░  20% 💀
+Easy   ████████████████████░░░░  75% 
+Medium ████████████░░░░░░░░░░░░  50% 
+Hard   █████░░░░░░░░░░░░░░░░░░░  20% 
 ```
 
 ---
@@ -48,8 +48,8 @@ Hard   █████░░░░░░░░░░░░░░░░░░░ 
 > Every problem in this repo is tagged with one of two labels:
 
 ```
-🤝 [HELPED]   →  Understood with reference / hint / tutorial
-💪 [SOLO]     →  Solved completely on my own, no help
+[HELPED]   →  Understood with reference / hint / tutorial
+[SOLO]     →  Solved completely on my own, no help
 ```
 
 This honest tagging shows **real growth** — not just solution count.
