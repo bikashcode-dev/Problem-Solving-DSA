@@ -1,0 +1,22 @@
+// core buliding 
+package loopall;
+import java.util.Scanner;
+
+public class sumofDigite {
+    public static void main(String[] arge){
+        System.out.print("Eneter digite count sum:");
+        Scanner sc = new Scanner(System.in);
+        int digite = sc.nextInt();
+        System.out.print("Total sum of digite : " + sumofDigiteNum(digite));
+    }
+
+    public static int sumofDigiteNum(int digite){
+        int sum = 0, r;
+        while( digite != 0 ){
+            r = digite % 10;
+            sum +=r;
+            digite /= 10;
+        }
+        return sum;
+    }
+}
