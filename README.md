@@ -32,14 +32,14 @@ Hard   █████░░░░░░░░░░░░░░░░░░░ 
 
 | # | Topic | Status | Problems |
 |---|---|:---:|:---:|
-| 01 | 📦 Arrays & Strings | ✅ Done | ~25 |
-| 02 | 🔗 Linked List | ✅ Done | ~15 |
-| 03 | 📚 Stack & Queue | ✅ Done | ~12 |
-| 04 | 🌲 Trees & BST | 🔥 Active | ~18 |
-| 05 | 🔁 Recursion & Backtracking | 🔥 Active | ~10 |
-| 06 | 🗺️ Graphs (BFS/DFS) | ⏳ In Progress | ~8 |
-| 07 | 💡 Dynamic Programming | 🔜 Coming Soon | — |
-| 08 | 🔍 Binary Search | ✅ Done | ~10 |
+| 01 | 📦 Arrays & Strings | 
+| 02 | 🔗 Linked List | 
+| 03 | 📚 Stack & Queue | 
+| 04 | 🌲 Trees & BST | 
+| 05 | 🔁 Recursion & Backtracking | 
+| 06 | 🗺️ Graphs (BFS/DFS) |
+| 07 | 💡 Dynamic Programming | 
+| 08 | 🔍 Binary Search | 
 
 ---
 
@@ -62,16 +62,16 @@ This honest tagging shows **real growth** — not just solution count.
 DSA-Solutions/
 │
 ├── 01_Arrays/
-│   ├── two_sum.java          💪 SOLO
-│   ├── max_subarray.java     🤝 HELPED
+│   ├── two_sum.java          
+│   ├── max_subarray.java     
 │   └── ...
 │
 ├── 02_LinkedList/
-│   ├── reverse_list.java     💪 SOLO
+│   ├── reverse_list.java     
 │   └── ...
 │
 ├── 03_Trees/
-│   ├── level_order.java      🤝 HELPED
+│   ├── level_order.java      
 │   └── ...
 │
 └── README.md
@@ -79,7 +79,7 @@ DSA-Solutions/
 
 > Each file has a comment at the top:
 > ```java
-> // 🏷️ SOLO | Platform: LeetCode | Difficulty: Medium
+> //| Platform: LeetCode and geeks for geeks| Difficulty: Medium
 > // Approach: Two pointer...
 > ```
 
