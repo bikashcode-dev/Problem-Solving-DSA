@@ -22,9 +22,9 @@ public class PrintAllPrimeNum {
 
         for(int i = 2; i*i<=isprime; i++ ){
             if( isprime % i == 0){
-                return false;
+                return 0;
             }
         }
-        return true;
+        return 1;
     }
 }
