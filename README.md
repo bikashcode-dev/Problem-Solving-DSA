@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 📊 Progress Overview
 
 <div align="center">
@@ -28,22 +26,22 @@ Hard   █████░░░░░░░░░░░░░░░░░░░ 
 
 ---
 
-## 🗂️ Topics Covered
+##  Topics Covered
 
 | # | Topic | Status | Problems |
 |---|---|:---:|:---:|
-| 01 | 📦 Arrays & Strings | 
-| 02 | 🔗 Linked List | 
-| 03 | 📚 Stack & Queue | 
-| 04 | 🌲 Trees & BST | 
-| 05 | 🔁 Recursion & Backtracking | 
-| 06 | 🗺️ Graphs (BFS/DFS) |
-| 07 | 💡 Dynamic Programming | 
-| 08 | 🔍 Binary Search | 
+| 01 | Arrays & Strings | 
+| 02 | Linked List | 
+| 03 | Stack & Queue | 
+| 04 | Trees & BST | 
+| 05 | Recursion & Backtracking | 
+| 06 | Graphs (BFS/DFS) |
+| 07 | Dynamic Programming | 
+| 08 | Binary Search | 
 
 ---
 
-## 🏷️ How I Solve Problems
+## How I Solve Problems
 
 > Every problem in this repo is tagged with one of two labels:
 
@@ -54,28 +52,10 @@ Hard   █████░░░░░░░░░░░░░░░░░░░ 
 
 This honest tagging shows **real growth** — not just solution count.
 
----
 
-## 📁 Folder Structure
 
-```
-DSA-Solutions/
-│
-├── 01_Arrays/
-│   ├── two_sum.java          
-│   ├── max_subarray.java     
-│   └── ...
-│
-├── 02_LinkedList/
-│   ├── reverse_list.java     
-│   └── ...
-│
-├── 03_Trees/
-│   ├── level_order.java      
-│   └── ...
-│
-└── README.md
-```
+- practice problems for logic building and Understanding of program flow core logic.
+- dsa problem basic, medium, hard.
 
 > Each file has a comment at the top:
 > ```java
@@ -85,7 +65,7 @@ DSA-Solutions/
 
 ---
 
-## 🌐 Platforms
+##  Platforms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
@@ -103,7 +83,7 @@ DSA-Solutions/
 
 <div align="center">
 
-**Made with 🧠 + ☕ by [Bikash Kumar](https://github.com/bikashcode-dev)**
+**Made with  by [Bikash Kumar](https://github.com/bikashcode-dev)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=flat-square&logo=github)](https://github.com/bikashcode-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash_Sah-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bikash-sah-java)
