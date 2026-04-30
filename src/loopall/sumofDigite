@@ -1,5 +1,5 @@
 
-package loopall;
+package loop.pac;
 import java.util.Scanner;
 
 public class sumofDigite {
