@@ -19,17 +19,11 @@
 ---
 
 ## How I Solve Problems
-
 > Every problem in this repo is tagged with one of two labels:
 
 ```
-[HELPED]   →  Understood with reference / hint / tutorial
-[SOLO]     →  Solved completely on my own, no help
 ```
-
 This honest tagging shows **real growth** — not just solution count.
-
-
 
 - practice problems for logic building and Understanding of program flow core logic.
 - dsa problem basic, medium, hard.
@@ -54,7 +48,7 @@ This honest tagging shows **real growth** — not just solution count.
 
 > I'm not just storing solutions — I'm **documenting my thinking.**
 > Each problem has the approach, edge cases, and whether I needed help.
-> The goal: solve more **SOLO** problems every week. 📈
+> The goal: solve more **SOLO** problems every week. 
 
 ---
 
