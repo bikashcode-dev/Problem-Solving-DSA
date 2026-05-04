@@ -1,0 +1,32 @@
+package Dsa.aray_all_problem.Arry;
+
+public class binarySerch {
+    void main() {  //0,  1,  2,   3
+        int[]arr={1,2,3,4,5,6,7,8,9,10};
+        IO.println(sortingBinary(arr,11));
+    }
+
+    public static int sortingBinary(int arr[],int targetElement){
+        int lowler = 0;
+        int higther = arr.length-1;
+
+        while(lowler <= higther)
+        {
+            int middle_Element = lowler + ( higther-lowler)/2;
+//step 1; If the element are int midd of array , this is best case and  return the intant element ;
+            if ( arr[middle_Element] == targetElement ){
+                return middle_Element ;
+            }
+// step 2; If the element was not middle then cheak fist target_Elen..t was , < then middle_Elemt
+// then ( - mid arry 1 and assgine higer ; means new arry lenght
+            if ( targetElement < arr[middle_Element] ){
+                higther = middle_Element - 1;
+            }
+// step 3; if targetElement was greater then mid middle_Element then , cheak
+            if( targetElement > arr[middle_Element] ){
+                lowler = middle_Element + 1;
+            }
+        }
+        return -1;
+    }
+}
