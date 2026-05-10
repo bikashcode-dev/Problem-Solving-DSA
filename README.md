@@ -13,8 +13,7 @@
 | 04 | Trees & BST | 
 | 05 | Recursion & Backtracking | 
 | 06 | Graphs (BFS/DFS) |
-| 07 | Dynamic Programming | 
-| 08 | Binary Search | 
+| 07 | Binary Search | 
 
 ---
 
