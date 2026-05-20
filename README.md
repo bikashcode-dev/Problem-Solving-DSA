@@ -12,7 +12,7 @@
 | 03 | Stack & Queue | 
 | 04 | Trees & BST | 
 | 05 | Recursion & Backtracking | 
-| 06 | Graphs (BFS/DFS) |
+| 06 | Graphs ) |
 | 07 | Binary Search | 
 
 ---
