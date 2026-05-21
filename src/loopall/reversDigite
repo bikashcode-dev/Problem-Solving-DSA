@@ -3,8 +3,7 @@ package loopall;
 import java.util.Scanner;
 
 public class reversDigite {
-    public static void main(String[] at){
-        System.out.print("Enter num reverse");
+    public static void main(String[] Strg){
 
         Scanner sc = new Scanner(System.in);
         int digite = sc.nextInt();
