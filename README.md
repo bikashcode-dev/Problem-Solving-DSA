@@ -9,7 +9,7 @@
 | # | Topic | Status | Problems |
 | 01 | Arrays & Strings | 
 | 02 | Linked List | 
-| 03 | Stack & Queue | 
+| 03 | Stack & Queue  
 | 04 | Trees & BST | 
 | 05 | Recursion & Backtracking | 
 | 06 | Graphs ) DFA|
